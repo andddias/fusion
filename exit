@@ -1,0 +1,18 @@
+[33m5ded566[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Entendendo e configurando requisitos para os Testes
+[33m5b66adb[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m)[m Atualização modo Administrativo Django
+[33mf7b1ca1[m Correção settings.py correção MEDIA_URL
+[33mcbaa8f0[m Ajuste arquivo Heroku Procfile
+[33m40910fd[m Correção de time-zone
+[33m8c5a238[m Arquivos Heroku
+[33me3816d6[m Projeto finalizado
+[33m702f35a[m Contato.html trabalhando com formularios e Class Based Views
+[33m82d9a2c[m Configurado parte de recursos.html
+[33m74d2749[m Conhecendo e Utilizando o Context Manager
+[33m45db7de[m Definindo os Models
+[33m6501abc[m Criando paginas de erro 404 e 500 usando herança da base.html a partir do conteudo editado de hero.html
+[33mfbbea03[m Separação de todas as partes do index.html
+[33m76dfa85[m Ajustando divisão entre arquivos base.html e index.html
+[33me3f393f[m Ajustado integração static do index e criado base.html igual ao index
+[33m456ee79[m Adicionando template Fusion original
+[33m6377184[m Trabalhando com Class Based Views
+[33ma36dad7[m Projeto criado
